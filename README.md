@@ -1,2 +1,2 @@
-# je-events
+# js-events
 js-events
