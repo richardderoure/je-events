@@ -1,0 +1,45 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}    
+
+.navbar{
+    display:flex;
+    flex-direction: row;
+    background-color: red;
+    width: 100%;
+    justify-content: center;
+
+}
+a{
+    padding: 5px 20px 5px 20px;
+}
+
+.background-change{
+    background-color: teal;
+}
+h2:before{
+content:' This is our football page'
+}
+h2:hover:before{
+content:'Welcome to the page';
+}
+
+.change-class{
+    font-size: 30px !important;
+    font: bold !important;
+    background-color:pink;
+}
+
+.p-history{
+font-size: 20px;
+}
+.p-home{
+font-size: 20px;
+}
+.p-popularity{
+font-size: 20px;
+}
+
+.user-para{
+font-size:20px;
+}
